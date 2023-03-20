@@ -9,3 +9,5 @@ The technologies and methods that used in this project are as follows:
 - Sending request to API and usage of incoming response
 - HTTP Client called 'Axios'
 - Async Structure
+
+Note: After cloning this project, you should run 'npm install' command in terminal to make project ready to work.
